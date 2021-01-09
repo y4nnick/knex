@@ -9,7 +9,8 @@
 [![Language Grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/knex/knex.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/knex/knex/context:javascript)
 
 
-# Small local fix for https://github.com/knex/knex/issues/4216
+# Just a fork in order to provider a quick fix for my private projects for this issue: https://github.com/knex/knex/issues/4216
+# DON'T USE THIS PACKAGE!
 
 
 > **A SQL query builder that is _flexible_, _portable_, and _fun_ to use!**
